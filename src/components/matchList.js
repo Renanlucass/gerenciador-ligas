@@ -1,4 +1,3 @@
-// components/MatchList.js
 import React from 'react';
 import styles from '../styles/matchList.module.css';
 

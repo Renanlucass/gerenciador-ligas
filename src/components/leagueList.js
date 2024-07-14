@@ -1,4 +1,3 @@
-// components/LeagueList.js
 import React from 'react';
 import LeagueItem from './leagueItem';
 import styles from '../styles/leagueList.module.css';

@@ -1,4 +1,3 @@
-// pages/index.js
 import React, { useState } from 'react';
 import Header from '../components/header';
 import LeagueList from '../components/leagueList';

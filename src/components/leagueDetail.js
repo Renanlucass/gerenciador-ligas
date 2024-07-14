@@ -1,4 +1,3 @@
-// components/LeagueDetail.js
 import React from 'react';
 import TeamList from './teamList';
 import MatchList from './matchList';

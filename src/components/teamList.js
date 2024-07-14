@@ -1,4 +1,3 @@
-// components/TeamList.js
 import React from 'react';
 import styles from '../styles/teamList.module.css';
 

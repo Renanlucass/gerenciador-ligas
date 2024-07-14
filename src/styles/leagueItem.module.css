@@ -1,0 +1,32 @@
+/* styles/LeagueItem.module.css */
+.leagueItemContainer {
+    border-bottom: 1px solid #e0e0e0;
+    padding: 15px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    border-radius: 8px;
+    background-color: #ffffff;
+  }
+  
+  .leagueItemContainer:hover {
+    background-color: #f0f0f0;
+    transform: translateY(-2px);
+  }
+  
+  .leagueItemTitle {
+    margin: 0;
+    font-size: 1.25rem;
+    color: #333;
+  }
+  
+  .leagueItemSummary {
+    margin: 5px 0;
+    color: #666;
+  }
+  
+  .leagueItemDate {
+    display: block;
+    color: #999;
+    font-size: 0.875rem;
+  }
+  

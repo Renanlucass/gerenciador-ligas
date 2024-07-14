@@ -1,0 +1,27 @@
+/* styles/TeamList.module.css */
+.teamListContainer {
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .teamListTitle {
+    margin: 0 0 10px;
+  }
+  
+  .teamList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .teamListItem {
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .teamListItem:last-child {
+    border-bottom: none;
+  }
+  

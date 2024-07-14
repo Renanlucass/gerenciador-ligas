@@ -1,0 +1,24 @@
+/* styles/Header.module.css */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #0070f3;
+    color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .addLeague {
+    background-color: white;
+    color: #0070f3;
+    padding: 10px 20px;
+    border: 2px solid #0070f3;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .addLeague:hover {
+    background-color: #e6f0ff;
+  }
+  

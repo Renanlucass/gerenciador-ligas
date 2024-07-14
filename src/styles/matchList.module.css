@@ -1,0 +1,27 @@
+/* styles/MatchList.module.css */
+.matchListContainer {
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .matchListTitle {
+    margin: 0 0 10px;
+  }
+  
+  .matchList {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .matchListItem {
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .matchListItem:last-child {
+    border-bottom: none;
+  }
+  
